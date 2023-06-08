@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "693159993831",
+    "project_id": "mohamedchat-e5973",
+    "storage_bucket": "mohamedchat-e5973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693159993831:android:ab0d6f812a3d5ab5429d42",
+        "android_client_info": {
+          "package_name": "com.example.mohamed_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693159993831-h186j8vn20jikbpbg22ctunkak0aj0ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv74LmVYm11ACfdOXDJB9feQXc2zcJbs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693159993831-h186j8vn20jikbpbg22ctunkak0aj0ke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693159993831-1mma15l2eb0l4ngujcmek0r3l9cn9fq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mohamedChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
